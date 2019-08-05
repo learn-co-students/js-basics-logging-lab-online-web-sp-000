@@ -1,4 +1,4 @@
-# JavaScript Logging Lab
+n# JavaScript Logging Lab
 
 ## Objectives
 1. Practice using `console.log()`
